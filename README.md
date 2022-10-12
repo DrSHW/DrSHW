@@ -1,5 +1,5 @@
 <div align="center">
-# ✨Welcome to DrSHW's Github!✨
+# Welcome to DrSHW's Github!
 <hr>
 
 <!--
