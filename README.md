@@ -3,7 +3,7 @@
 
 <h2>Technology Stack🔮</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,vue,astro,vite,webpack,vscode,py,django,fastapi,flask,selenium,mysql,mongodb,redis,docker,git,linux,nginx,md,nodejs,matlab,go,c,cpp,qt,gitlab,powershell,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,vue,astro,vite,webpack,vscode,py,django,fastapi,flask,selenium,regex,mysql,mongodb,redis,docker,git,linux,vim,nginx,md,nodejs,matlab,go,c,cpp,qt,gitlab,powershell,bash)](https://skillicons.dev)
 
 <h3><a href="https://index.drshw.tech/">Labtorary⚗️</a></h3>
 
