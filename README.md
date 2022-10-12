@@ -1,6 +1,6 @@
-<div style="align: center;">
-## ✨Welcome to DrSHW's Github!✨
-
+<div align="center;">
+# ✨Welcome to DrSHW's Github!✨
+<hr>
 <!--
 **DrSHW/DrSHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
