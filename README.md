@@ -1,6 +1,5 @@
 <div align="center">
   <h1> ✨Welcome to DrSHW's Github!✨ </h1>
-<hr>
 
 <h2>Technology Stack🔮</h2>
   
