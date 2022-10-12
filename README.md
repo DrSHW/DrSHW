@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Dustella&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=DrSHW&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
