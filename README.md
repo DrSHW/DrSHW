@@ -5,17 +5,15 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,sass,windicss,css,ts,vue,astro,vite,webpack,nodejs,py,django,fastapi,flask,regex,selenium,mysql,mongodb,redis,linux,docker,git,md,vim,nginx,go,c,cpp,qt,vscode,matlab,gitlab,powershell,bash)](https://skillicons.dev)
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
 <h3><a href="https://index.drshw.tech/">Labtorary⚗️</a></h3>
 
 <hr/>
 <h2>昼短苦夜长，何不秉烛游？🔭</h2>
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=DrSHW&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=drshw&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
+<a href=#><img src="contributions.svg"></a>
 
 </div>
